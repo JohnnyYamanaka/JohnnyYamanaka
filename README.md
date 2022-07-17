@@ -8,7 +8,7 @@ Entusiasta da ciência de dados e procurando a migração para área!
 ## :computer: Habilidades e Conhecimentos: :computer:
 * Python;
 * Análise de Dados;
-* Machine Learning (Pandas, Numpy, Sklearning);
+* Machine Learning (Pandas, Numpy, Scikit-learn);
 * Visualização de Dados (Matplolib, Seaborn);
 * Prototipação (Streamlit).
 
